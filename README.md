@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 **Welcome to my GitHub!**  
-I’m **Nithyasree Kusakula**, a **Data Scientist & Machine Learning Engineer** obsessed with building AI solutions that turn raw data into actionable insights.  
+👋 **Welcome to my GitHub!**  I am Data Scientist & Machine Learning Engineer** obsessed with building AI solutions that turn raw data into actionable insights.  
 *Coffee-powered coder ☕ | Aspiring wildlife photographer 📸 | Always chasing the next tech rabbit hole 🕳️*
 
 ---
@@ -33,36 +32,23 @@ I’m **Nithyasree Kusakula**, a **Data Scientist & Machine Learning Engineer** 
 ### 🛠️ **Skills & Tools**  
 **Programming**: Python, R, ![SQL], ![PySpark](
 
-**Data Science**:  
-![Pandas]
-![TensorFlow](
-![PyTorch]
-![OpenAI](
+**Data Science**:  [Pandas], [TensorFlow](, [PyTorch], [OpenAI](
 
-**Cloud & Tools**:  
-![GCP]
-![AWS]
-![Azure]
-![Tableau]
+**Cloud & Tools**:  [GCP], [AWS], [Azure], [Tableau]
 ---
 
 ### 📈 **Featured Projects**  
-*(Projects section remains the same as before)*  
+  
 
 ---
 
 ### 🌟 **Achievements**  
-- 🏆 **Top 10 in ECE Department** (2018-2019) - Awarded $1000 scholarship.  
-- 🎯 **Microsoft Cloud Certification Mentor** - Trained 50+ peers in Azure/Databricks.  
+ 
 - 📜 **Certifications**: Oracle GenAI, Alteryx, Databricks Data Engineer.  
 
 ---
 
 ### 🌐 **Let’s Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nithyasree_Kusakula-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/Email-nithyasree@example.com-red?logo=gmail)](mailto:nithyasree@example.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-My_Projects-green)](https://your-portfolio.com)  
+[![Email](vaishanvimada1727@gmail.com)  
 
-📊 **GitHub Stats**  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)  
+
