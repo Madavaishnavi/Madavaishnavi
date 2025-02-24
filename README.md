@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 *Coffee-powered coder ☕ | Aspiring wildlife photographer 📸 | Always chasing the next tech rabbit hole 🕳️*
 
 ---
-###🚀 **About Me** 
+### 🚀 **About Me** 
 - 🎓 **Education: Master’s in Data Science & Analytics** @ Georgia State University | **GPA: 4.06/4.0** 
 - 💼 ** Work Experience**:  Hands-on experience across Data Science, Engineering, and Analytics through roles at Cognizant, United Distributors, Georgia State University, and Institute for Insight
 - 🔍 **Interests**: Machine Learning, NLP, Generative AI, Cloud Computing, and Data Engineering
 ---
 
 
-###🛠️ **Skills & Tools**
+### 🛠️ **Skills & Tools**
 **🔹 Programming Languages**: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, NLTK, SpaCy) | SQL | R | PySpark
 
 **🔹 Data Science & Analytics**: Machine Learning | NLP | Deep Learning | Time Series Analysis | A/B Testing | Data Visualization
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 --- 
   
-###📈 **My Projects**
+### 📈 **My Projects**
 - 🔹 **AI & Data Science**
 1. AIRA 1.0: Built an AI-powered search and chat app using Google Vertex AI, leveraging Retrieval-Augmented Generation (RAG) for document accessibility.
 2. Customer Churn Prediction: Developed an ANN-based model to predict customer churn, achieving 85% accuracy, and deployed via Streamlit.
@@ -58,6 +58,6 @@ Tesla Sales Analysis: Explored patterns and trends in Tesla sales data, using Pa
 ---
 
 ### 🌐 **Let’s Connect**  
-[![Email](vaishanvimada1727@gmail.com)  
-
+📫 Email: [![Email](vaishanvimada1727@gmail.com)  
+💼 LinkedIn: [Vaishnavi Mada](https://www.linkedin.com/in/vaishnavi-mada/)
 
