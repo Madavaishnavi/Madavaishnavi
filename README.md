@@ -61,6 +61,6 @@ Here are some ideas to get you started:
 ---
 
 ### 🌐 **Let’s Connect**  
-📫 Email: [![Email](vaishanvimada1727@gmail.com)  
+📫 Email: vaishanvimada1727@gmail.com  
 💼 LinkedIn: [Vaishnavi Mada](https://www.linkedin.com/in/vaishnavi-mada/)
 
