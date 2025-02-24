@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ### 🌟 **Achievements**  
  
 - 📜 **Certifications**: [Oracle GenAI]
-(https://catalog-education.oracle.com/ords/certview/sharebadge?id=A4C8A5AB1FA7239F28AAC9163A5894CFE77DC6B063C844905ABF345AAEC6C1CE), ![Databricks](https://img.shields.io/badge/Alteryx-FF3621?style=for-the-badge&logo=alteryx&logoColor=white)[Alteryx](https://community.alteryx.com/t5/badges/userbadgespage/user-id/641596/page/1), ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)[Databricks Data Engineer](https://credentials.databricks.com/68586ac3-3f77-4366-be7e-3035fee5f242#acc.u58cExfn)
+(https://catalog-education.oracle.com/ords/certview/sharebadge?id=A4C8A5AB1FA7239F28AAC9163A5894CFE77DC6B063C844905ABF345AAEC6C1CE), [Alteryx](https://img.shields.io/badge/Alteryx_Designer_Core_Certified-0072C6?style=for-the-badge&logo=alteryx&logoColor=white)[Alteryx](https://community.alteryx.com/t5/badges/userbadgespage/user-id/641596/page/1), ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)[Databricks Data Engineer](https://credentials.databricks.com/68586ac3-3f77-4366-be7e-3035fee5f242#acc.u58cExfn)
 
 ---
 
