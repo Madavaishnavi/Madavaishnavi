@@ -42,10 +42,12 @@ Here are some ideas to get you started:
 1. AIRA 1.0: Built an AI-powered search and chat app using Google Vertex AI, leveraging Retrieval-Augmented Generation (RAG) for document accessibility.
 2. Customer Churn Prediction: Developed an ANN-based model to predict customer churn, achieving 85% accuracy, and deployed via Streamlit.
 3. Yelp Review Sentiment Analysis: Processed and analyzed 500K+ Yelp reviews using Apache Spark (PySpark, Spark SQL) for distributed data processing. Applied NLP techniques (NLTK, SpaCy) to extract sentiments and stored results in Snowflake for efficient querying. Developed interactive Tableau dashboards for sentiment trend visualization.
-🔹 Data Engineering
+4. 
+- 🔹 **Data Engineering**
 SharePoint Data Pipeline: Engineered a data pipeline to process 3,000+ SharePoint documents into GCP Cloud Storage and BigQuery, reducing retrieval time by 60%.
 Azure ETL Pipelines: Built SQL-based ETL pipelines in Azure Synapse Analytics, optimizing workflows for 10+ teams at Cognizant.
-🔹 Data Analytics & Visualization
+
+- 🔹 **Data Analytics & Visualization**
 Retail Pricing Trend Analysis: Scraped 10,000+ competitor records using Python (Selenium, BeautifulSoup) to analyze market trends, leading to 8% margin improvement.
 Walmart Sales Prediction: Forecasted sales trends with 90% accuracy, analyzing sales patterns, holiday impacts, and economic factors using SQL & Python.
 Tesla Sales Analysis: Explored patterns and trends in Tesla sales data, using Pandas, NumPy, and Matplotlib for interactive analysis.
@@ -53,7 +55,7 @@ Tesla Sales Analysis: Explored patterns and trends in Tesla sales data, using Pa
 
 ### 🌟 **Achievements**  
  
-- 📜 **Certifications**: Oracle GenAI, Alteryx, Databricks Data Engineer.  
+- 📜 **Certifications**: [Oracle GenAI](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A4C8A5AB1FA7239F28AAC9163A5894CFE77DC6B063C844905ABF345AAEC6C1CE), Alteryx, Databricks Data Engineer.  
 
 ---
 
