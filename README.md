@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 **🔹 Data Science & Analytics**: Machine Learning | NLP | Deep Learning | Time Series Analysis | A/B Testing | Data Visualization
 
-**🔹 Cloud & Big Data**: Google Cloud (BigQuery, Vertex AI, Cloud Storage, Agent Builder) | Azure (Synapse Analytics, Databricks) | AWS |     Snowflake | Hadoop
+**🔹 Cloud & Big Data**: Google Cloud (BigQuery, Vertex AI, Cloud Storage, Agent Builder) | Azure (Synapse Analytics, Databricks) | AWS |          Snowflake | Hadoop
 
 **🔹 BI & Data Tools**: Tableau | Power BI | Alteryx | Informatica | Docker | CI/CD Pipelines
 
