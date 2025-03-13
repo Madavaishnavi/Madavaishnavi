@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ---
 ### 🚀  **About Me** 
 - 🎓  **Education: Master’s in Data Science & Analytics** @ Georgia State University | **GPA: 4.06/4.0** 
-- 💼  **Work Experience** :  Hands-on experience across Data Science, Engineering, and Analytics through roles at Cognizant Technology Solutions, Georgia State University, and Institute for Insight at GSU
+- 💼  **Work Experience** :  Hands-on experience across Data Science, Engineering, and Analytics through roles at Cognizant Technology    Solutions, Georgia State University, and Institute for Insight at GSU
 - 🔍  **Interests**: Machine Learning, NLP, Generative AI, Cloud Computing, and Data Engineering
 ---
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 **🔹 Data Science & Analytics**: Machine Learning | NLP | Deep Learning | Time Series Analysis | A/B Testing | Data Visualization
 
-**🔹 Cloud & Big Data**: Google Cloud (BigQuery, Vertex AI, Cloud Storage, Agent Builder) | Azure (Synapse Analytics, Databricks) | AWS | Snowflake | Hadoop
+**🔹 Cloud & Big Data**: Google Cloud (BigQuery, Vertex AI, Cloud Storage, Agent Builder) | Azure (Synapse Analytics, Databricks) | AWS |     Snowflake | Hadoop
 
 **🔹 BI & Data Tools**: Tableau | Power BI | Alteryx | Informatica | Docker | CI/CD Pipelines
 
