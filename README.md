@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👋 **Welcome to my GitHub!** I am a Data Professional with expertise spanning Data Science, Data Engineering, and Data Analytics. With a strong foundation in machine learning, cloud technologies, and big data processing, I enjoy building scalable solutions, extracting insights, and optimizing workflows. 
-*Coffee-powered coder ☕ | Aspiring wildlife photographer 📸 | Always chasing the next tech rabbit hole 🕳️*
 
 ---
 ### **About Me** 
