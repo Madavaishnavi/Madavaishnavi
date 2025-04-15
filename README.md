@@ -1,4 +1,4 @@
-## Hi there 👋 I am Vaishnavi Mada
+## Hi there I am Vaishnavi Mada
 
 <!--
 **Madavaishnavi/Madavaishnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ---
 ### **About Me** 
-- 🎓  **Education: Master’s in Data Science & Analytics** @ Georgia State University | **GPA: 4.06/4.0** 
-- 💼  **Work Experience** :  Hands-on experience across Data Science, Engineering, and Analytics through roles at Cognizant Technology    Solutions, Georgia State University, and Institute for Insight at GSU
-- 🔍  **Interests**: Machine Learning, NLP, Generative AI, Cloud Computing, and Data Engineering
+-   **Education: Master’s in Data Science & Analytics** @ Georgia State University | **GPA: 4.06/4.0** 
+-   **Work Experience** :  Hands-on experience across Data Science, Engineering, and Analytics through roles at Cognizant Technology    Solutions, Georgia State University, and Institute for Insight at GSU
+-   **Interests**: Machine Learning, NLP, Generative AI, Cloud Computing, and Data Engineering
 ---
 
 
