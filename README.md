@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 
 ###   **Skills & Tools**
-** Programming Languages**: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, NLTK, SpaCy) | SQL | R | PySpark
+**Programming Languages**: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, NLTK, SpaCy) | SQL | R | PySpark
 
-** Data Science & Analytics**: Machine Learning | NLP | Deep Learning | Time Series Analysis | A/B Testing | Data Visualization
+**Data Science & Analytics**: Machine Learning | NLP | Deep Learning | Time Series Analysis | A/B Testing | Data Visualization
 
-** Cloud & Big Data**: Google Cloud (BigQuery, Vertex AI, Cloud Storage, Agent Builder) | Azure (Synapse Analytics, Databricks) | AWS |                Snowflake | Hadoop
+**Cloud & Big Data**: Google Cloud (BigQuery, Vertex AI, Cloud Storage, Agent Builder) | Azure (Synapse Analytics, Databricks) | AWS |                Snowflake | Hadoop
 
-** BI & Data Tools**: Tableau | Power BI | Alteryx | Informatica | Docker | CI/CD Pipelines
+**BI & Data Tools**: Tableau | Power BI | Alteryx | Informatica | Docker | CI/CD Pipelines
 
 
 --- 
