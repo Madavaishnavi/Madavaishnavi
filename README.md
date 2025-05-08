@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 **Welcome to my GitHub!** I am a Data Professional with expertise spanning Data Science, Data Engineering, and Data Analytics. With a strong foundation in machine learning, cloud technologies, and big data processing, I enjoy building scalable solutions, extracting insights, and optimizing workflows. 
+ **Welcome to my GitHub!** I am a Data Professional with expertise spanning Data Science, Data Engineering, and Data Analytics. With a strong foundation in machine learning, cloud technologies, and big data processing, I enjoy building scalable solutions, extracting insights, and optimizing workflows. 
 
 ---
 ### **About Me** 
@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 
 ###   **Skills & Tools**
-**🔹 Programming Languages**: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, NLTK, SpaCy) | SQL | R | PySpark
+** Programming Languages**: Python (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, NLTK, SpaCy) | SQL | R | PySpark
 
-**🔹 Data Science & Analytics**: Machine Learning | NLP | Deep Learning | Time Series Analysis | A/B Testing | Data Visualization
+** Data Science & Analytics**: Machine Learning | NLP | Deep Learning | Time Series Analysis | A/B Testing | Data Visualization
 
-**🔹 Cloud & Big Data**: Google Cloud (BigQuery, Vertex AI, Cloud Storage, Agent Builder) | Azure (Synapse Analytics, Databricks) | AWS |                Snowflake | Hadoop
+** Cloud & Big Data**: Google Cloud (BigQuery, Vertex AI, Cloud Storage, Agent Builder) | Azure (Synapse Analytics, Databricks) | AWS |                Snowflake | Hadoop
 
-**🔹 BI & Data Tools**: Tableau | Power BI | Alteryx | Informatica | Docker | CI/CD Pipelines
+** BI & Data Tools**: Tableau | Power BI | Alteryx | Informatica | Docker | CI/CD Pipelines
 
 
 --- 
@@ -53,9 +53,8 @@ Here are some ideas to get you started:
 3. Tesla Sales Analysis: Explored patterns and trends in Tesla sales data, using Pandas, NumPy, and Matplotlib for interactive analysis.
 ---
 
-### 🌟 **Achievements**  
  
-- 📜 **Certifications**:
+## **Certifications**:
 - ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white) [Oracle GenAI](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A4C8A5AB1FA7239F28AAC9163A5894CFE77DC6B063C844905ABF345AAEC6C1CE)
 - ![Alteryx](https://img.shields.io/badge/Alteryx_Designer_Core_Certified-0072C6?style=for-the-badge&logo=alteryx&logoColor=white)[Alteryx](https://community.alteryx.com/t5/badges/userbadgespage/user-id/641596/page/1)
 - ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)[Databricks Data Engineer](https://credentials.databricks.com/68586ac3-3f77-4366-be7e-3035fee5f242#acc.u58cExfn)
@@ -63,6 +62,6 @@ Here are some ideas to get you started:
 ---
 
 ### **Let’s Connect**  
-📫 Email: vaishanvimada1727@gmail.com  
-💼 LinkedIn: [Vaishnavi Mada](https://www.linkedin.com/in/vaishnavi-mada/)
+ Email: vaishanvimada1727@gmail.com  
+ LinkedIn: [Vaishnavi Mada](https://www.linkedin.com/in/vaishnavi-mada/)
 
