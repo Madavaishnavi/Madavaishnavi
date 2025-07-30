@@ -63,7 +63,3 @@ Here are some ideas to get you started:
 
 ---
 
-### **Let’s Connect**  
- Email: vaishanvimada1727@gmail.com  
- LinkedIn: [Vaishnavi Mada](https://www.linkedin.com/in/vaishnavi-mada/)
-
